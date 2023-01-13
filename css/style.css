@@ -1,0 +1,43 @@
+
+.conteiner {
+    border: 1px solid black;
+    border-radius:12px;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+}
+
+p {
+    margin-bottom: 50px;
+}
+
+input {
+    border: 0;
+    border-bottom: 1px solid black;
+    width: 200px;
+    outline: none;
+}
+
+h2 {
+    margin-top: 40px;
+}
+
+button {
+    padding: 10px 15px;
+    border-radius: 10px;
+    background-color: green;
+    color: #fff;
+    border:0;
+    margin: 15px 15px;
+    transition: background-color 0.2s linear;
+}
+
+button:hover {
+    background-color:rgb(2, 54, 2);
+}
+
+h1 {
+    text-align: center;
+    color: green;
+}
+
